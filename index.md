@@ -2,7 +2,7 @@
 
 ## About Me
 
-[Software Engineering skills](Software_Examples.md) | [3D character modeling side hussle](https://github.com/Catastrophie/Catastrophie.github.io/edit/main/index.md)
+[Software Engineering skills](Software_Examples.md) | [3D character modeling side hussle](Art_Experiences.md)
 
 
 
@@ -31,3 +31,5 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+[edit url](https://github.com/Catastrophie/Catastrophie.github.io/edit/main/index.md)
