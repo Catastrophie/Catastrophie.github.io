@@ -5,29 +5,7 @@
 
 ## About Me
 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+What brought me to the University of Utah?
+To be specific, the Entertainment Arts & Engineering (EAE) program. I grew up in Utah and found that being a resident made it easier to attend college. Coming from the realization that I'll be a first-generation college graduate when I get my Bachelors in Computer Science with an emphasis in Games. For me, the chance to attend the University of Utah was too great an opportunity to pass up.
 
 [edit url](https://github.com/Catastrophie/Catastrophie.github.io/edit/main/index.md)
