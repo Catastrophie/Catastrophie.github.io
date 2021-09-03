@@ -1,7 +1,7 @@
 [Software Engineering skills](Software_Examples.md) | [3D character modeling side hussle](Art_Experiences.md)
 
 
-<img src= "CurrentPic.jpg" width="150"> ## About Me
+## About Me
 
 What brought me to the University of Utah?
 ```markdown
@@ -12,4 +12,7 @@ I get my Bachelors in Computer Science with an emphasis in Games.
 
 For me, the chance to attend the University of Utah was too great an opportunity to pass up.
 ```
+
+<img src= "CurrentPic.jpg" width="150"> 
+
 [edit url](https://github.com/Catastrophie/Catastrophie.github.io/edit/main/index.md)
