@@ -3,6 +3,7 @@
 
 ## About Me
 
+<img src= "CurrentPic.jpg" width="150"> 
 What brought me to the University of Utah?
 ```markdown
 To be specific, the Entertainment Arts & Engineering (EAE) program.
@@ -13,6 +14,5 @@ I get my Bachelors in Computer Science with an emphasis in Games.
 For me, the chance to attend the University of Utah was too great an opportunity to pass up.
 ```
 
-<img src= "CurrentPic.jpg" width="150"> 
 
 [edit url](https://github.com/Catastrophie/Catastrophie.github.io/edit/main/index.md)
