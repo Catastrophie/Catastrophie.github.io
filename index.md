@@ -1,11 +1,9 @@
-//start with introduction image -- maybe me? Or something relevant
-
-## About Me
-
 [Software Engineering skills](Software_Examples.md) | [3D character modeling side hussle](Art_Experiences.md)
 
 
+//start with introduction image -- maybe me? Or something relevant
 
+## About Me
 
 
 ### Markdown
