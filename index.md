@@ -4,7 +4,9 @@
 ## About Me
 
 <img src= "CurrentPic.jpg" width="150"> 
+
 What brought me to the University of Utah?
+
 ```markdown
 To be specific, the Entertainment Arts & Engineering (EAE) program.
 I grew up in Utah and found that being a resident made it easier to attend college. 
