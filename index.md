@@ -15,7 +15,9 @@ not one for saying that's not my job, I'd rather learn something new and bring t
 new asset to the team, than wait for someone else to possibly step up if they aren't
 willing to. That's why my skills seem all over the place.
 
-For further information and examples on my skills [Software](Software_Examples.md) [Art](Art_Experiences.md)
+For further information and examples on my skills 
+[Software](Software_Examples.md) 
+[Art](Art_Experiences.md)
 
 # Games recently played
 
