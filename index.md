@@ -1,7 +1,7 @@
 [Software Engineering skills](Software_Examples.md) | [3D character modeling side hussle](Art_Experiences.md)
 
 
-<img src= "About me picture.jpg" width="200">
+<img src= "About me picture.jpg" width="100">
 
 ## About Me
 
