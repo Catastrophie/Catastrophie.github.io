@@ -37,7 +37,7 @@ For further information and examples on my skills
   * Diablo I & II
 ```
 
-# My social media:
+# Other sites:
 [LinkedIn](https://www.linkedin.com/in/crystallynnyoung/)
 [GitHub](https://github.com/Catastrophie)
 
