@@ -15,6 +15,13 @@ not one for saying that's not my job, I'd rather learn something new and bring t
 new asset to the team, than wait for someone else to possibly step up if they aren't
 willing to. That's why my skills seem all over the place.
 
+But my skill isn't only coming from my school education. I've also been working as a 
+Network/monitoring Intern with the Center for High-Performance Computing since 2016. 
+With this experience, I've had the opportunity to learn many skills relevant to my future 
+career goals as a Software Programmer in Game Dev. Many of these skills involve monitoring
+and automating data and network processes. I've worked in a team or with my peers to 
+create working products for users.
+
 For further information and examples on my skills 
 [Software](Software_Examples.md) 
 [Art](Art_Experiences.md)
