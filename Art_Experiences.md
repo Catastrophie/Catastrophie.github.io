@@ -1,5 +1,3 @@
-//start with introduction image -- maybe me? Or something relevant
-
 # 3D Character's side hussle
 
 [About Me](index.md) | [Software Engineering skills](Software_Examples.md) 
