@@ -5,14 +5,14 @@
 [About Me](index.md) | [3D character modeling side hussle](Art_Experiences.md)
 
 
-## Current Projects
+# Current Projects
 
-# Octo-Revenge (Final name TBD)
+## Octo-Revenge (Final name TBD)
 - Senior Capstone related game developement. 
 -   Creating on a team of 25, with a team of 7 total engineers.
 -   potentially based with an MVC setup
 
-# Virtual Data-Center real-time Monitoring
+## Virtual Data-Center real-time Monitoring
 - Fully 3D modeled SLC Downtown Data Center
 -   Source Control: Gitlab & external drives
 -   Engine: Unreal 4.27
@@ -21,8 +21,8 @@
 - Self-scripted staging in c++ to gain most recent data
 - Blueprint system to output visual cues based on obtained data.
 
-## Past Projects
-# Revenge of the Killer Octopus
+# Past Projects
+## Revenge of the Killer Octopus
 - Prototype of Senior Capstone game project
 -   Created with a team of 10, with a team of 3 total engineers.
 -   Source Control: Perforce
@@ -35,19 +35,19 @@
 -       On key press, use health pack if it exists in inventory.
 -       After a delay in damage, regenerate health (was removed after design was questioned.)
 
-# Tank Wars (reimagined)
+## Tank Wars (reimagined)
 - 
-# Astroids (reimagined)
+## Astroids (reimagined)
 - Java develop
 - couch coop'd 
 
-## Projects in Planning
+# Projects in Planning
 
-# Twitch streamer additionals
+## Twitch streamer additionals
 - String light notifications on trigger words
 - Viewer interactables to self animated avatars
 
-# (Mis)Fortune
+## (Mis)Fortune
 - 
 - potentials:
 - 
