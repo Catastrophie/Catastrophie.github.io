@@ -1,6 +1,6 @@
 //start with introduction image -- maybe me? Or something relevant
 
-## Software Engineering Experiences
+# Software Engineering Experiences
 
 [About Me](index.md) | [3D character modeling side hussle](Art_Experiences.md)
 
@@ -16,7 +16,7 @@
 - Fully 3D modeled SLC Downtown Data Center
 -   Source Control: Gitlab & external drives
 -   Engine: Unreal 4.27
--   
+ 
 - Prometheus querys for real-time metrics
 - Self-scripted staging in c++ to gain most recent data
 - Blueprint system to output visual cues based on obtained data.
