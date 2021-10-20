@@ -39,10 +39,9 @@
 -       After a delay in damage, regenerate health (was removed after design was questioned.)
 
 ## Tank Wars (reimagined)
-- 
-## Astroids (reimagined)
-- Java develop
-- couch coop'd 
+- For reasons of not showing code I wrote as an assignment, I've created a diagram instead.
+
+<img src= "TankWars.png" height="400">
 
 # Projects in Planning
 
