@@ -1,5 +1,3 @@
-//start with introduction image -- maybe me? Or something relevant
-
 # Software Engineering Experiences
 
 [About Me](index.md) | [3D character modeling side hussle](Art_Experiences.md)
@@ -8,7 +6,7 @@
 # Current Projects
 
 ## Octo-Revenge (Final name TBD)
-- Senior Capstone related game developement. 
+- Senior Capstone-related game development. 
 -   Creating on a team of 25, with a team of 7 total engineers.
 -   potentially based with an MVC setup
 
@@ -17,7 +15,7 @@
 -   Source Control: Gitlab & external drives
 -   Engine: Unreal 4.27
  
-- Prometheus querys for real-time metrics
+- Prometheus queries for real-time metrics
 - Self-scripted staging in c++ to gain most recent data
 - Blueprint system to output visual cues based on obtained data.
 
@@ -36,7 +34,7 @@
 -       On Damage, remove some health percentage.
 -       On collision, collect health pack and add to inventory.
 -       On key press, use health pack if it exists in inventory.
--       After a delay in damage, regenerate health (was removed after design was questioned.)
+-       After a delay in damage, regenerate health (was removed after the design was questioned.)
 
 ## Tank Wars (reimagined)
 - For reasons of not showing code I wrote as an assignment, I've created a diagram instead.
@@ -47,12 +45,11 @@
 
 ## Twitch streamer additionals
 - String light notifications on trigger words
-- Viewer interactables to self animated avatars
+- Viewer interactable to self animated avatars
 
 ## (Mis)Fortune
-- 
-- potentials:
-- 
+- Originally created as a board game where the player's end goal is to have more gold than the current reigning monarch.
+- Plan to create it multi-networked with a central server to send data, so players can compete with their friends.
 
 <object data="SoftwareResume.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="SoftwareResume.pdf">
