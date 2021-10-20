@@ -31,7 +31,7 @@
    
 [![Revenge of the Killer Octopus](KillerOcto.PNG)](https://www.youtube.com/watch?v=K11RjfskTJU "Revenge of the Killer Octopus")
    
-    Primary responsabilities:
+###   Primary responsabilities:
 -       Initial health status set.
 -       On Damage, remove some health percentage.
 -       On collision, collect health pack and add to inventory.
