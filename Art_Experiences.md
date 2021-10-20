@@ -2,6 +2,7 @@
 
 [About Me](index.md) | [Software Engineering skills](Software_Examples.md) 
 
+# Rabbit and the Moon
 [![Rabbit and the Moon](rabbit.PNG)](https://www.youtube.com/watch?v=t0fPbHMlPds "Rabbit and the Moon")
 
 ## Rabbit 180 model
@@ -10,10 +11,10 @@
 ## Pappi 180 model
 <img src= "pappiFront.png" height="150">  <img src= "pappiSide.png" height="150">  <img src= "pappiBack.png" height="150">
 
-Rime of the Ancient Mariner
+# Rime of the Ancient Mariner
 <a href="https://goatpants.itch.io/rime-of-the-ancient-mariner">Download links here</a>
 
-
+# Downtown Data Center models
 
 <object data="GamePlayResume.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="GamePlayResume.pdf">
