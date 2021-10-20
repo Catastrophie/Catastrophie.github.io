@@ -41,7 +41,7 @@
 ## Tank Wars (reimagined)
 - For reasons of not showing code I wrote as an assignment, I've created a diagram instead.
 
-<img src= "TankWars.png" height="400">
+<img src= "TankWars.jpg" height="400">
 
 # Projects in Planning
 
