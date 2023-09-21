@@ -5,24 +5,16 @@
 
 <img src= "CurrentPic.jpg" width="150"> 
 
-Hiya! My names Crystal, nice to meet you! 
+Hiya! My name is Crystal, nice to meet you! 
 
-I'm currently pursuing my Bachelors in Computer Science with the Games emphasis. 
-What this means for you: I've had a fair amount of experience working with many 
-of my peers in a variety of different-sized teams or solo! In these 
-different groups, I've had the opportunity to fulfill many different roles. I'm 
-not one for saying that's not my job, I'd rather learn something new and bring that
-new asset to the team, than wait for someone else to possibly step up if they aren't
-willing to. That's why my skills seem all over the place.
+I recently completed my Bachelor in Computer Science with a Games emphasis from the University of Utah. 
+What this means for you: I've had a fair amount of experience working with many of my peers in a variety of different-sized teams or even solo! In these different groups, I've had the opportunity to fulfill many different roles. I'm not one for saying that's not my job, I'd rather learn something new and bring that new asset to the team over waiting for someone else to possibly step up if they aren't willing to. That's why my skills seem all over the place.
 
-But my skill isn't only limited to my school education. I've also been working as a 
-Network research and monitoring intern with the Center for High-Performance Computing since 2016. 
-With this experience, I've had the opportunity to learn many skills relevant to my future 
-career goals as a Software Programmer in Game Development. Many of these skills involve monitoring
-and automating data, as well as basic network processes. Within the scope of this job I've experience 
-working within a team structure or alongside my peers to create working products for users.
+My skill isn't limited to my school education. Most recently, I was employed as an Associate Software Engineer at High Moon Studios. While there, I was given the amazingly unique experience of working on the AAA game, Call of Duty Modern Warfare 2, and 3, as well as mobile. While this was a short experience, it allowed me to grow tremendously as a software dev in both working on a live product with multiple teams, as well as owning my own feature work from the start and on through the lifetime of the feature.
 
-For further information and examples on my skills 
+I've also been employed as a Network research and monitoring intern with the Center for High-Performance Computing between the years 2016 to 2022. With this experience, I've had the opportunity to learn many skills relevant to my career as a Software Programmer. Many of these skills involve monitoring and automating data, as well as basic network processes. Within the scope of this job, I've experienced working within a team structure as well as alongside my peers to create a working product for users.
+
+For further information and examples of my skills 
 [Software](Software_Examples.md) 
 [Art](Art_Experiences.md)
 
@@ -49,4 +41,4 @@ For further information and examples on my skills
 [GitHub](https://github.com/Catastrophie)
 
 ## Contact Me:
-Email: crystal.young@utah.edu 
+Email: crystalyoung92@gmail.com 
