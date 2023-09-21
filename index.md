@@ -21,9 +21,9 @@ For further information and examples of my skills
 # Games recently played
 
 ```markdown
-  * Destiny 2: Beyond Light
-  * Phasmophobia
-  * Horizon Zero Dawn
+  * Baldur's Gate 3
+  * Lies of P
+  * Diablo IV
 ```
 
 # Games that made an impact in my younger years
