@@ -4,11 +4,11 @@
 
 # Most Recent Projects
 
-- Call of Duty Modern Warfare 2, 3, and Mobile
+## Call of Duty Modern Warfare 2, 3, and Mobile
 -  Worked as a part of the Online dev team for interfaces that required client and server interactions.
 -  Created hooks for UI to interact with, on specific needs without the UI team needing to interact directly with the server code.
 -  Monitored in-game voice and user feature bugs.
-
+-  Check my resume below for more details
 
 # Past Projects
 
@@ -24,7 +24,7 @@
 -   Engine: Unreal 4.27
  
 - Prometheus queries for real-time metrics
-- Self-scripted staging in c++ to gain the most recent data
+- Self-scripted staging in C++ to gain the most recent data
 - Blueprint system to output visual cues based on obtained data.
 
 # Past Projects
