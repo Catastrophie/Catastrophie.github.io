@@ -2,21 +2,29 @@
 
 [About Me](index.md) | [3D character modeling side hussle](Art_Experiences.md)
 
+# Most Recent Projects
 
-# Current Projects
+- Call of Duty Modern Warfare 2, 3, and Mobile
+-  Worked as a part of the Online dev team for interfaces that required client and server interactions.
+-  Created hooks for UI to interact with, on specific needs without the UI team needing to interact directly with the server code.
+-  Monitored in-game voice and user feature bugs.
 
-## Octo-Revenge (Final name TBD)
+
+# Past Projects
+
+## Revenge of the Killer Octopus
 - Senior Capstone-related game development. 
 -   Creating on a team of 25, with a team of 7 total engineers.
--   potentially based with an MVC setup
+-   Set up with MVC architecture in mind
+-   On steam: https://store.steampowered.com/app/1906640/Revenge_of_the_Killer_Octopus/
 
-## Virtual Data-Center real-time Monitoring
+## Virtual Data-Center Real-time Monitoring
 - Fully 3D modeled SLC Downtown Data Center
 -   Source Control: Gitlab & external drives
 -   Engine: Unreal 4.27
  
 - Prometheus queries for real-time metrics
-- Self-scripted staging in c++ to gain most recent data
+- Self-scripted staging in c++ to gain the most recent data
 - Blueprint system to output visual cues based on obtained data.
 
 # Past Projects
@@ -30,14 +38,15 @@
 [![Revenge of the Killer Octopus](KillerOcto.PNG)](https://www.youtube.com/watch?v=K11RjfskTJU "Revenge of the Killer Octopus")
    
 ###   Primary responsabilities:
--       Initial health status set.
+-       Initial health status component creation.
 -       On Damage, remove some health percentage.
 -       On collision, collect health pack and add to inventory.
--       On key press, use health pack if it exists in inventory.
+-       On key press, use the health pack if it exists in inventory.
 -       After a delay in damage, regenerate health (was removed after the design was questioned.)
+-       Front-end UI interaction states
 
 ## Tank Wars (reimagined)
-- For reasons of not showing code I wrote as an assignment, I've created a diagram instead.
+- For reasons of not showing the code I wrote as an assignment, I've created a diagram instead.
 
 <img src= "TankWars.jpg" height="400">
 
@@ -45,14 +54,14 @@
 
 ## Twitch streamer additionals
 - String light notifications on trigger words
-- Viewer interactable to self animated avatars
+- Viewer interactable with self-animated avatars
 
 ## (Mis)Fortune
 - Originally created as a board game where the player's end goal is to have more gold than the current reigning monarch.
 - Plan to create it multi-networked with a central server to send data, so players can compete with their friends.
 
-<object data="SoftwareResume.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="SoftwareResume.pdf">
+<object data="SoftwareEngResume2023.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="SoftwareEngResume2023.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="SoftwareResume.pdf">Download PDF</a>.</p>
     </embed>
 </object>
