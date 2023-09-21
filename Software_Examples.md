@@ -62,6 +62,6 @@
 
 <object data="SoftwareEngResume2023.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="SoftwareEngResume2023.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="SoftwareResume.pdf">Download PDF</a>.</p>
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="SoftwareEngResume2023.pdf">Download PDF</a>.</p>
     </embed>
 </object>
